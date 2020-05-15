@@ -1,5 +1,5 @@
 <h1>DenoSite</h1>
-<p>Examples of HTTP Server and Middleware functionality in Oak for use in Oak</p>
+<p>Examples of HTTP Server and Middleware functionality in Oak for use in Deno</p>
 
 ## About
 This is more of a example repository for Oak, not meant for building a Website or API. These are just building blocks to get you started with Web Development in Deno. Although Deno is new to developers. I find Oak as one of the best ones so far to use.
